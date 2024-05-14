@@ -1,0 +1,5 @@
+Status Update Aplikasi SIAPDES
+
+- 13/05/2024 : update untuk dokumen kabupaten Surat/Nota Perhitungan 1% Iuran BPJS, bagi yang status perangkat desa peserta BPJS nya tidak aktif (T) akan di nol kan
+
+- 14/05/2024 : pembatasan ukuran file upload menjadi 10 mb
