@@ -4,3 +4,5 @@ Status Update Aplikasi SIAPDES
 - 14/05/2024 : pembatasan ukuran file upload menjadi 10 mb
 - 16/05/2024 : update untuk tabel data Siltap - Tunjangan Desa pada user desa - penyesuaian dengan status BPJS perangkat desa aktif (Y) atau tidak aktif (T)
 - 17/05/2024 : perbaikan Query SQL untuk Laporan SP2D - Kuasa BUD - hanya menampilkan data yang sudah memiliki nomor SP2D.
+- 03/06/2024 : perbaikan untuk menu BUD pada kirim -- Kuasa BUD (ADD, SILTAP, DBH, DBHR).
+- 03/06/2024 : Perbaikan fasilitas search untuk KUASA BUD - Input SP2D (ADD, SILTAP, DBH, DBHR).
