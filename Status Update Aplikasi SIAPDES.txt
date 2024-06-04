@@ -7,3 +7,4 @@ Status Update Aplikasi SIAPDES
 - 03/06/2024 : perbaikan fasilitas search untuk BUD pada kirim -- Kuasa BUD (ADD, SILTAP, DBH, DBHR).
 - 03/06/2024 : Perbaikan fasilitas search untuk KUASA BUD - Input SP2D (ADD, SILTAP, DBH, DBHR).
 - 03/06/2024 : Perbaikan fasilitas search untuk KUASA BUD - Laporan SP2D (ADD, SILTAP, DBH, DBHR).
+- 04/06/2024 : Perbaikan query SQL perhitungan realisasi dan tampilan KUASA BUD - Laporan Realisasi (ADD, SILTAP, DBH, DBHR).
