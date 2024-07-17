@@ -10,3 +10,4 @@ Status Update Aplikasi SIAPDES
 - 04/06/2024 : Perbaikan query SQL perhitungan realisasi dan tampilan KUASA BUD - Laporan Realisasi (ADD, SILTAP, DBH, DBHR).
 - 10/06/2024 : perbaikan fasilitas search untuk Admin dan Desa pada Monitoring (ADD, SILTAP, DBH, DBHR).
 - 19/06/2024 : update fungsi Pengawasan untuk Tim Kecamatan (ADD, SILTAP, DBH, DBHR). 
+- 16/07/2024 : Perbaikan post double entry refresh untuk fasilitas Pemeriksaaan Tim Kecamatan dan Kabupaten (SILTAP). 
