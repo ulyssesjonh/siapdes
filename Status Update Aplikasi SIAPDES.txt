@@ -13,3 +13,4 @@ Status Update Aplikasi SIAPDES
 - 16/07/2024 : Perbaikan post double entry refresh untuk fasilitas Pemeriksaaan Tim Kecamatan dan Kabupaten (SILTAP). 
 - 18/09/2024 : Perbaikan fasilitas pengawasan print dokumen untuk Tim Kecamatan (SILTAP).
 - 20/09/2024 : Perbaikan Inputan SP2D untk Kuasa BUD (SILTAP)
+- 04/12/2024 : Perbaikan tampilan aksi pada tabel pada menu pengajuan untuk admin dan Desa (DBHR)
